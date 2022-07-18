@@ -1,0 +1,23 @@
+{{ if .Site.Data.homepage.our_data.enable }}
+<section class="section rad-animation-group mt-2" id="ourdata">
+  <div class="container">
+    <div class="rad-fade-down">
+      <div class="text-center">
+        <h2 class="color-font">{{ .Site.Data.homepage.our_data.title | safeHTML }}</h2>
+        <p class="center-description">{{ .Site.Data.homepage.our_data.desc | safeHTML}}</p>
+      </div>
+      <div class="d-flex row justify-content-center mt-3">
+        {{ range .Site.Data.homepage.our_data.items }}
+        <div class="col-md text-center">
+          <img class="img-responsive m-1" style="max-width: 70%; height: 150px" src="{{ .img }}" alt="logo" />
+          <h6 class="mx-4 my-4 color-font">{{ .title }}</h6>
+          <p class="mx-1 text-center">{{.description}}</p>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<style></style>

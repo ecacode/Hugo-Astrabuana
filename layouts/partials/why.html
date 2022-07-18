@@ -1,0 +1,33 @@
+{{ if .Site.Data.homepage.why.enable }}
+<section id="why" class="section rad-animation-group mt-1">
+  <div class="container">
+    <div class="row flex-md-row rad-fade-down">
+      <div class="col-12 my-5 mt-sm-0 container6">
+        <h2 class="color-font mx-auto">{{ .Site.Data.homepage.why.title }}</h2>
+      </div>
+      <div class="accordion row">
+        {{ range .Site.Data.homepage.why.items }}
+        <div class="col-md-6 text-center">
+          <img class="img-responsive m-1 card-img-top" src="{{ .img }}" />
+          <div class="card-body">
+            <h5 class="mx-4 color-font">{{ .title }}</h5>
+            <p class="mt-4 mx-3 text-justify">{{.description}}</p>
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<style>
+  div.container6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .card-img-top {
+    height: 400px;
+  }
+</style>

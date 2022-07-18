@@ -1,0 +1,21 @@
+{{ if .Site.Data.homepage.strategic_communication.enable }}
+<section class="section rad-animation-group" id="media-analysis">
+  <div class="container">
+    <div class="rad-fade-down">
+      <div class="text-center">
+        <h2 class="color-font">{{ .Site.Data.homepage.strategic_communication.title | safeHTML }}</h2>
+      </div>
+      <div class="d-flex row justify-content-center mt-3">
+        {{ range .Site.Data.homepage.strategic_communication.items }}
+        <div class="col-md-4">
+          <img class="img-responsive m-1" src="{{ .image }}" alt="logo" />
+          <h5 class="color-font my-3">{{ .title }}</h5>
+          <p class="mx-1">{{.description}}</p>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
