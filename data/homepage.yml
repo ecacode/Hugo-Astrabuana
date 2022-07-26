@@ -58,10 +58,7 @@ showcase:
 about:
   enable: true
   title: "About <br/> Our Company"
-  content: "Astrabuana Sendhang Pranawa engaged in strategic
-    communication and big data analysis that focused on
-    analyzing conversations based on online and social
-    media"
+  content: "Astrabuana Sendhang Pranawa adalah perusahaan start-up yang bergerak dalam bidang komunikasi strategis dan analisis big data, yang berfokus pada percakapan di media online dan media sosial."
   button:
     btnText: "Read more"
   image:
@@ -77,15 +74,11 @@ why:
     x: "img/why/why-image.png"
   items:
     - img: "img/why/enterprice.png"
-      title: "Enterprise-Class Dashboard"
-      description: "Automatically absorbs and processes insights
-        from large-scale digital daily conversations on
-        social and online media"
+      title: "Dasboard Near Real-time"
+      description: "Secara otomatis menyerap dan memproses wawasan dari percakapan harian digital skala besar di media sosial dan online."
     - img: "img/why/one-stop-solution.png"
-      title: "One Stop Solution"
-      description: "Provide your communication assistance in
-        every company’s condition, either good or
-        even crisisa"
+      title: "Solusi Satu Pintu"
+      description: "Berikan bantuan komunikasi Anda dalam berbagai kondisi dan kebutuhan setiap perusahaan, bahkan ketika perusahaan terpapar krisis komunikasi"
 
 # product
 product:
@@ -93,16 +86,11 @@ product:
   title: "Product"
   items:
     - image: "img/product/astramaya.png"
-      description: "ASTRAMAYA advance in analyzing conversations both social media and online media into insights."
+      description: "Berpengalaman dalam menganalisis percakapan di media sosial maupun media online"
     - image: "img/product/carola.png"
-      description: "CAROLA Public Relations Consultant that help to enhancing brand image by creative
-        communication strategy and fostering good relations with press"
+      description: "Spesialis komunikasi strategis yang 24 jam siap membantu mengatasi masalah bidang krisis komunikasi"
     - image: "img/product/ideata.png"
-      description: "IDEATA focused in extensive expertise
-        big data analytics. It will help you to
-        get specific statistical and analytical
-        tools and got your specific insight to
-        develop the business"
+      description: "Mumpuni dalam pengelolaan Business Intelligence dan Big Data Analysis untuk insight perusahaan"
 
 # client
 client:
@@ -178,12 +166,10 @@ contact:
     website: '<a href="www.astrabuana.id">www.astrabuana.id</a>'
   address:
     title: "Address"
-    address: "Klaster Griya Purwa No 146 Kompleks<br/>
-      Kavling DKI, Jl. Purwa Raya l Gg Hj Rajim<br/>
-      No.RT.6, RT.6/RW.3 Cipendak, Kec. Jagakarsa,<br/>
-      Kota Jakarta Selatan,<br/>
-      Daerah Khusus Ibukota Jakarta<br/>
-      12630"
+    address: "18 Office Park Building </br>
+      Lt. 22 Suite E, F, G </br>
+      Jl. TB Simatupang Kav. 18 Jakarta 12520 </br>
+      Telp : 021 80641965"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
