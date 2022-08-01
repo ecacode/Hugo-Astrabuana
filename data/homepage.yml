@@ -1,7 +1,7 @@
 # homepage
 homepage:
   head:
-    title: "Home | Astrabuana"
+    title: "Beranda | Astrabuana"
 # showcase
 showcase:
   enable: true
@@ -181,7 +181,7 @@ newsletter:
   title: "Berlangganan Buletin"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+  note: "Kami tidak akan pernah membagikan email Anda kepada orang lain."
 
   # our service
 our_data:
