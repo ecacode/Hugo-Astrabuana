@@ -5,9 +5,9 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Dapatkan solusi dalam tentukan keputusan bisnis anda."
+  title: "Dapatkan solusi dalam menentukan keputusan bisnis anda."
   subtitle: "___________"
-  description: "Kami membantu perusahaan untuk dapatkan wawasan yang lebih luas melalui big data media sosial dan media online. Butuh penasihat untuk tim komunikasi anda?"
+  description: "Kami membantu perusahaan untuk mendapatkan wawasan yang lebih luas melalui big data media sosial dan media online. Butuh penasihat untuk tim komunikasi Anda ?"
   image:
     alt: "Showcase keyboard and mouse image"
     # x: "img/showcase/landing-image.png"
@@ -56,7 +56,7 @@ showcase:
 about:
   enable: true
   title: "Tentang  <br/> Perusahaan Kami"
-  content: "ASTRABUANA Sendhang Pranawa adalah perusahaanyang memulai bergerak dlam bidang komunikasi strategis dan Analisa big data, yang berfokus pada percakapan di media online dan media sosial."
+  content: "Astrabuana Sendhang Pranawa adalah perusahaan start-up yang bergerak dalam bidang komunikasi strategis dan analisis big data, yang berfokus pada percakapan di media online dan media sosial."
   button:
     btnText: "Baca Selengkapnya"
   image:
@@ -72,30 +72,30 @@ why:
     x: "img/why/why-image.png"
   items:
     - img: "img/why/enterprice.png"
-      title: "Dasbor yang mendekati waktu yang nyata"
+      title: "Dasbor yang mendekati real time"
       description: "Secara otomatis menyerap dan memproses wawasan dari percakapan harian digital skala besar di media sosial dan online."
     - img: "img/why/one-stop-solution.png"
       title: "Solusi Satu Pintu"
-      description: "Berikan bantuan komunikasi Anda dalam berbagai kondisi dan kebutuhan setiap perusahaan, bahkan ketika perusahaan terpapar krisis komunikasi"
+      description: "Berikan bantuan komunikasi Anda dalam berbagai kondisi dan kebutuhan setiap perusahaan, bahkan ketika perusahaan terpapar krisis komunikasi."
     - img: "img/why/konsultan.png"
       title: 'Konsultan Berpengalaman'
-      description: 'Astrabuana memiliki konsultan-konsultan yang sudah berpengalaman lebih dari 5 tahun dalam menangani berbagai permasalahan perusahaan di bidang komunikasi'
+      description: 'Astrabuana memiliki konsultan-konsultan yang sudah berpengalaman lebih dari 5 tahun dalam menangani berbagai permasalahan perusahaan di bidang komunikasi.'
 # product
 product:
   enable: true
   title: "Product"
   items:
     - image: "img/product/astramaya.png"
-      description: "Berpengalaman dalam menganalisis percakapan di media sosial maupun media online"
+      description: "Berpengalaman dalam menganalisis percakapan di media social maupun media online."
     - image: "img/product/carola.png"
-      description: "Spesialis komunikasi strategis yang 24 jam siap membantu mengatasi masalah bidang krisis komunikasi"
+      description: "Spesialis komunikasi strategis yang 24 jam siap membantu mengatasi masalah di bidang krisis komunikasi."
     - image: "img/product/ideata.png"
-      description: "Mumpuni dalam pengelolaan Business Intelligence dan Big Data Analysis untuk insight perusahaan"
+      description: "Mumpuni dalam pengelolaan Business Intelligence dan Big Data Analysis untuk insight perusahaan."
 
 # client
 client:
   enable: true
-  title: "Client"
+  title: "Klien"
   image:
     alt: "client image"
     x: "img/client/client-image.png"
@@ -157,7 +157,7 @@ contact:
     message: "Ketik pesan anda disini"
   phone:
     title: "Telepon"
-    number: "0823-4141-0665"
+    number: "021-72742894"
   email:
     title: "Surel"
     email: '<a href="mailto:info@astrabuana.id">info@astrabuana.id</a>'
@@ -190,31 +190,28 @@ our_data:
   items:
     - img: "img/our-data/audience.png"
       title: "Analisis Audiens"
-      description: "Mengidentifikasi dan memahami audiens. Influencer dan kepribadian yang penting bagi perusahaan anda."
+      description: "Mengidentifikasi dan memahami audiens, influencer dan kepribadian yang penting bagi perusahaan Anda."
     - img: "img/our-data/brand.png"
       title: "Analisis Merek"
-      description: "Measure brands and
-        determine what drives positive
-        and negative sentiments
-        regarding your company"
+      description: "Mengukur merek berdasarkan hal apa yang mendorong sentiment positif dan negatif mengenai perusahaan Anda."
     - img: "img/our-data/industry.png"
       title: "Analisis Industri dan Tren"
-      description: "Menemukan tren pelanggan di pasar dan memahami industri anda."
+      description: "Menemukan tren pelanggan di pasar dan memahami industri Anda."
     - img: "img/our-data/campaign.png"
       title: "Analisis Kampanye dan Krisis"
-      description: "Memantau kinerja kampanye perusahaan dan kondisi krisis untuk memahami ROI dan tanggapan konsusmen di media sosial dan online."
+      description: "Memantau kinerja kampanye perusahaan dan kondisi krisis untuk memahami ROI dan tanggapan konsumen di media sosial dan online."
     - img: "img/our-data/stakeholder.png"
       title: "Pemetaan Pemangku Kepentingan"
-      description: "Pantau promotor dan destruktor anda untuk perkuat reputasi anda."
+      description: "Pantau promotor dan destruktor Anda untuk memperkuat reputasi Anda."
 
 media_analysis:
   enable: true
   title: "Jasa Analisis Media <br/> oleh Astramaya"
   items:
     - image: "img/media-analysis/1.png"
-      description: "Laporan analisis Astramaya dapat disesuaikan dengan kebutuhan klien dalam memantau suatu masalah.  Mulai dari volume & trend percakapan dan pemberitaan, tren isu, matriks isu, top influencer, narasi teratas, polarisasi isu, sentimen topik berita populer.  Analisis Emosi, pengukuran hashtag hingga Analisis Jejaring Sosial"
+      description: "Laporan analisis Astramaya dapat disesuaikan dengan kebutuhan klien dalam memantau suatu masalah.  Mulai dari volume & tren percakapan dan pemberitaan, tren isu, matriks isu, top influencer, top narasi, polarisasi isu, sentiment, topik berita popular,  analisis emosi, dan pengukuran hashtag hingga Social Network Analysis (SNA)."
     - image: "img/media-analysis/2.png"
-      description: "Laporan analisis juga dapat berisi saran untuk tindakan pada masalah yang dipantau oleh klien seperti, tindakan tepat apa yang diperlukan, jenis konten dan narasi yang perlu diangkat, waktu yang tepat untuk meledakkan konten apakah perlu reaktif atau proaktif dalam menangani suatu masalah."
+      description: "Laporan analisis juga dapat berisi saran untuk tindakan pada masalah yang dipantau oleh klien seperti; tindakan yang tepat seperti apa yang diperlukan, jenis konten dan narasi yang perlu diangkat, waktu yang tepat untuk meledakkan konten apakah perlu reaktif atau proaktif dalam menangani suatu masalah."
     - image: "img/media-analysis/3.png"
       description: "Waktu dan isi laporan dapat disesuaikan dengan kebutuhan klien."
 
@@ -224,19 +221,19 @@ strategic_communication:
   items:
     - image: "img/strategic-communication/digital-public.png"
       title: "Humas Digital"
-      description: "Carola menyusun strategi menyusun tema kampanye dan pilar konten.  Sementara ruang digital penuh dengan informasi, menonjol hanyalah masalah menghidupkan ide yang menarik dan menarik Kami adalah agensi PR yang terkenal dengan pemikiran besar yang memberikan."
+      description: "Carola menyusun strategi dengan tema kampanye dan konten yang kuat. Dengan memanfaatkan ruang digital yang penuh dengan informasi, kami agensi PR yang dapat memberikan ide yang menarik dan interaktif."
     - image: "img/strategic-communication/special-event.png"
       title: "Acara Spesial"
-      description: "Meluncurkan produk/brand baru?  Kampanye?  Undang media dan influencer utama?  Dan mendapatkan kesadaran publik?  Carola, kami menyediakan tim untuk menangani acara spesial Anda."
+      description: "Meluncurkan produk/brand baru?  Kampanye?  Undang media dan influencer utama?  Dan mendapatkan kesadaran publik?  Carola menyediakan tim untuk menangani berbagai acara spesial Anda."
     - image: "img/strategic-communication/strategic-content.png"
       title: "Konten Strategis"
-      description: "Carola menyediakan desainer kreatif dan penulis salinan untuk memastikan merek bersinar terang di ruang media digital yang ramai.  Baik itu video, infografis, sinematografi, keterangan, artikel siaran pers."
+      description: "Carola menyediakan desainer kreatif dan copywriter untuk memastikan merek Anda menonjol di ruang media digital yang ramai.  Baik itu video, infografis, sinematografi, keterangan, dan artikel siaran pers."
     - image: "img/strategic-communication/csr.png"
       title: "Tanggung Jawab Sosial Perusahaan"
-      description: "Tanggung Jawab Sosial Perusahaan (CSR) telah berkembang dari menjadi tren menjadi bagian penting dari strategi pelibatan komunitas perusahaan mana pun dan dapat membentuk bagian integral dari komunikasi strategis perusahaan kepada masyarakat, staf, dan pemangku kepentingan lainnya.  Carola telah mengembangkan strategi dan kegiatan CSR untuk klien mulai dari mengembangkan inisiatif masyarakat lokal hingga inisiatif sosial, pendidikan dan lingkungan, dan kegiatan amal."
+      description: "Corporate Social Responsibility (CSR) telah berkembang menjadi bagian penting dari strategi pelibatan komunitas perusahaan mana pun dan dapat membentuk bagian integral dari komunikasi strategis perusahaan kepada masyarakat, staf, dan pemangku kepentingan lainnya.  Carola dapat mengembangkan strategi dan kegiatan CSR untuk klien mulai dari mengembangkan inisiatif komunitas lokal hingga inisiatif sosial, pendidikan dan lingkungan, serta kegiatan amal."
     - image: "img/strategic-communication/media-relation.png"
       title: "Hubungan Media & Publisitas"
-      description: "Jika Anda ingin mencapai dan mempertahankan kehadiran media, mengelola krisis, atau pendekatan strategis komunikasi Anda yang lebih baik, maka Carola adalah perusahaan yang tepat untuk Anda.  Tim kami memiliki file sukses yang kuat dalam mengelola kampanye publisitas untuk organisasi, Pemerintah, pariwisata, dan ritel termasuk regosiasi dan pengelolaan sponsor media yang berkelanjutan."
+      description: "Jika Anda ingin mencapai dan mempertahankan kehadiran media, mengelola krisis, atau pendekatan strategi komunikasi Anda yang lebih baik, maka Carola adalah perusahaan yang tepat untuk Anda.  Tim kami memiliki portofolio yang kuat dalam mengelola kampanye publisitas untuk organisasi, pemerintah, pariwisata, dan ritel, termasuk negosiasi dan pengelolaan sponsor media yang berkelanjutan."
 research_development:
   enable: true
   title: "Pengembangan Penelitian<br/> oleh Ideata"
